@@ -1,7 +1,7 @@
 # Hi, I'm Nishant Gawande 👋
 
 🎓 B.E. Electronics & Telecommunication Engineering (2025)  
-💻 Entry-level Software / Frontend Developer  
+💻 Entry-level Software / Fullstack Developer  
 🌐 Focused on building real-world, user-facing web applications  
 
 📍 Pune, India
