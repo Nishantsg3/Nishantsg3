@@ -22,7 +22,7 @@
 ---
 
 ### 🧠 Quiz Hub — Interactive Quiz Application
-🔗 Live Demo: *(add Netlify link if hosted)*  
+🔗 Live Demo: https://quiz-hub-web.netlify.app 
 💻 GitHub: https://github.com/Nishantsg3/Quiz-Hub  
 
 - JavaScript-based quiz app with timer and real-time scoring
