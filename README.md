@@ -17,18 +17,34 @@
 
 ## 👨‍💻 About Me
 
-I’m an entry-level software developer focused on building **real, functional applications** that simulate real-world systems rather than tutorial-only demos.
+I’m an entry-level software developer focused on building **functional, real-world applications** rather than tutorial-only demos.
 
-I enjoy working close to the fundamentals — clean logic, structured code, meaningful data handling, and projects that I can confidently explain in interviews.
+I enjoy working with core fundamentals — clean logic, structured code, meaningful data handling, and systems that can be clearly explained and extended.
 
-My primary focus is **Java backend development**, SQL, and full-stack fundamentals.
+My current focus is **Java backend development**, SQL, and full-stack fundamentals.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cs,js,html,css,bootstrap,php,mysql,postgres,git,github,linux,vscode,eclipse" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,cs,js" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,mysql,postgres" />
+</p>
+
+### Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,eclipse" />
 </p>
 
 ---
@@ -36,68 +52,53 @@ My primary focus is **Java backend development**, SQL, and full-stack fundamenta
 ## 🚀 Featured Projects
 
 ### 🛒 Grocery Shopping System (Console-Based)
-**Java • OOP • File I/O • Exception Handling**  
+**Java • OOP • File Handling**
 
-- Console-based grocery shopping application simulating real-world store operations
-- Supports item-based purchasing with quantity selection and billing
-- Inventory management with stock tracking and persistent storage
-- Automatic receipt generation for each transaction
-- Discount application based on bill amount
-- Custom exception handling for invalid or unavailable items
-- Price analytics including:
-  - Average item price
-  - Items below a specified price threshold
+- Console-based application simulating grocery store operations
+- Item-based purchasing with quantity selection and billing
+- Inventory management with persistent file storage
+- Receipt generation and basic price analytics
+- Implemented using object-oriented design and exception handling
 
-**Tech Highlights**
-- Object-Oriented Design (encapsulation, separation of concerns)
-- File-based persistence using inventory and receipt files
-- Structured error handling and input validation
-
-▶️ **Terminal Demo:** https://asciinema.org/a/Wx6hEYEFhRxn0ZTk
+▶️ Demo: https://asciinema.org/a/Wx6hEYEFhRxn0ZTk
 
 ---
 
 ### 🏦 FinCore — Java Banking System
-**Java • JDBC • MySQL**  
-🔗 https://github.com/Nishantsg3/java-banking-system
+**Java • JDBC • MySQL**
 
-- Console-based banking application built using Core Java
-- Features: account creation, deposit, withdrawal, balance inquiry, update, and account closure
+- Console-based banking application using Core Java
+- Features include account creation, deposits, withdrawals, and balance inquiry
 - Designed relational database schema and implemented SQL CRUD operations using JDBC
-- Focused on structured logic, error handling, and clean program flow
+- Focused on clean program structure and error handling
 
 ---
 
 ### 🧾 Student Record Management System
-**C • File Handling**  
-🔗 https://github.com/Nishantsg3/student-record-management-c
+**C • File Handling**
 
 - Menu-driven C application for managing student records
 - Persistent storage using binary files
-- Implemented add, display, search, update, and delete operations
-- Strengthened understanding of file I/O and structured programming
+- Implemented full CRUD functionality
+- Strengthened understanding of structured programming and file I/O
 
 ---
 
 ### 🧠 Quiz Hub — Interactive Quiz Application
-**HTML • CSS • JavaScript**  
-🔗 Live: https://quiz-hub-web.netlify.app  
-🔗 Repo: https://github.com/Nishantsg3/Quiz-Hub
+**HTML • CSS • JavaScript**
 
-- Browser-based quiz application with real-time scoring and countdown timer
-- Event-driven JavaScript logic and dynamic question rendering
-- Responsive and clean user interface
+- Browser-based quiz application with real-time scoring
+- Countdown timer and dynamic question rendering
+- Responsive UI with event-driven JavaScript logic
 
 ---
 
 ### 🎶 Symphony — Interactive Music Web App
-**HTML • CSS • JavaScript**  
-🔗 Live: https://symphony-mu.netlify.app  
-🔗 Repo: https://github.com/Nishantsg3/Symphony
+**HTML • CSS • JavaScript**
 
 - Interactive music web application focused on user interaction
 - Modular UI behavior and dynamic feedback
-- Deployed on Netlify with a production-ready setup
+- Deployed on Netlify with production-ready setup
 
 ---
 
