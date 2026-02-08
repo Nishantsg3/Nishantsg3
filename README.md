@@ -17,11 +17,11 @@
 
 ## 👨‍💻 About Me
 
-I’m an entry-level software developer focused on building **real, working applications** rather than tutorial-only projects.
+I’m an entry-level software developer focused on building **real, functional applications** that simulate real-world systems rather than tutorial-only demos.
 
-I enjoy working close to the fundamentals — clean logic, structured code, meaningful database design, and projects that I can confidently explain in interviews.
+I enjoy working close to the fundamentals — clean logic, structured code, meaningful data handling, and projects that I can confidently explain in interviews.
 
-My current focus is on **Java backend development**, SQL, and full-stack fundamentals.
+My primary focus is **Java backend development**, SQL, and full-stack fundamentals.
 
 ---
 
@@ -35,18 +35,40 @@ My current focus is on **Java backend development**, SQL, and full-stack fundame
 
 ## 🚀 Featured Projects
 
-### 🏦 FinCore — Java Banking System  
+### 🛒 Grocery Shopping System (Console-Based)
+**Java • OOP • File I/O • Exception Handling**  
+
+- Console-based grocery shopping application simulating real-world store operations
+- Supports item-based purchasing with quantity selection and billing
+- Inventory management with stock tracking and persistent storage
+- Automatic receipt generation for each transaction
+- Discount application based on bill amount
+- Custom exception handling for invalid or unavailable items
+- Price analytics including:
+  - Average item price
+  - Items below a specified price threshold
+
+**Tech Highlights**
+- Object-Oriented Design (encapsulation, separation of concerns)
+- File-based persistence using inventory and receipt files
+- Structured error handling and input validation
+
+▶️ **Terminal Demo:** https://asciinema.org/a/Wx6hEYEFhRxn0ZTk
+
+---
+
+### 🏦 FinCore — Java Banking System
 **Java • JDBC • MySQL**  
 🔗 https://github.com/Nishantsg3/java-banking-system
 
 - Console-based banking application built using Core Java
-- Features include account creation, deposit, withdrawal, balance inquiry, update, and account closure
+- Features: account creation, deposit, withdrawal, balance inquiry, update, and account closure
 - Designed relational database schema and implemented SQL CRUD operations using JDBC
 - Focused on structured logic, error handling, and clean program flow
 
 ---
 
-### 🧾 Student Record Management System  
+### 🧾 Student Record Management System
 **C • File Handling**  
 🔗 https://github.com/Nishantsg3/student-record-management-c
 
@@ -57,18 +79,18 @@ My current focus is on **Java backend development**, SQL, and full-stack fundame
 
 ---
 
-### 🧠 Quiz Hub — Interactive Quiz Application  
+### 🧠 Quiz Hub — Interactive Quiz Application
 **HTML • CSS • JavaScript**  
 🔗 Live: https://quiz-hub-web.netlify.app  
 🔗 Repo: https://github.com/Nishantsg3/Quiz-Hub
 
-- Browser-based quiz application with real-time scoring
-- Countdown timer and dynamic question rendering
-- Responsive UI and event-driven JavaScript logic
+- Browser-based quiz application with real-time scoring and countdown timer
+- Event-driven JavaScript logic and dynamic question rendering
+- Responsive and clean user interface
 
 ---
 
-### 🎶 Symphony — Interactive Music Web App  
+### 🎶 Symphony — Interactive Music Web App
 **HTML • CSS • JavaScript**  
 🔗 Live: https://symphony-mu.netlify.app  
 🔗 Repo: https://github.com/Nishantsg3/Symphony
@@ -91,11 +113,11 @@ My current focus is on **Java backend development**, SQL, and full-stack fundame
 ## 🎯 What I’m Looking For
 
 - Entry-level **Software Developer / Java Developer** roles
-- Opportunities to grow through real engineering work
+- Opportunities to learn through real engineering work
 - Teams that value fundamentals, clarity, and clean code
 
 ---
 
 <p align="center">
-<i>“Early in my career, serious about building things that work.”</i>
+<i>Early in my career, serious about building things that work.</i>
 </p>
