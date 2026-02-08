@@ -52,7 +52,8 @@ My current focus is **Java backend development**, SQL, and full-stack fundamenta
 ## 🚀 Featured Projects
 
 ### 🛒 Grocery Shopping System (Console-Based)
-**Java • OOP • File Handling**
+**Java • OOP • File Handling**  
+▶️ Demo: https://asciinema.org/a/Wx6hEYEFhRxn0ZTk  
 
 - Console-based application simulating grocery store operations
 - Item-based purchasing with quantity selection and billing
@@ -60,12 +61,11 @@ My current focus is **Java backend development**, SQL, and full-stack fundamenta
 - Receipt generation and basic price analytics
 - Implemented using object-oriented design and exception handling
 
-▶️ Demo: https://asciinema.org/a/Wx6hEYEFhRxn0ZTk
-
 ---
 
 ### 🏦 FinCore — Java Banking System
-**Java • JDBC • MySQL**
+**Java • JDBC • MySQL**  
+🔗 GitHub: https://github.com/Nishantsg3/java-banking-system  
 
 - Console-based banking application using Core Java
 - Features include account creation, deposits, withdrawals, and balance inquiry
@@ -75,7 +75,8 @@ My current focus is **Java backend development**, SQL, and full-stack fundamenta
 ---
 
 ### 🧾 Student Record Management System
-**C • File Handling**
+**C • File Handling**  
+🔗 GitHub: https://github.com/Nishantsg3/student-record-management-c  
 
 - Menu-driven C application for managing student records
 - Persistent storage using binary files
@@ -85,7 +86,9 @@ My current focus is **Java backend development**, SQL, and full-stack fundamenta
 ---
 
 ### 🧠 Quiz Hub — Interactive Quiz Application
-**HTML • CSS • JavaScript**
+**HTML • CSS • JavaScript**  
+🌐 Live: https://quiz-hub-web.netlify.app  
+🔗 GitHub: https://github.com/Nishantsg3/Quiz-Hub  
 
 - Browser-based quiz application with real-time scoring
 - Countdown timer and dynamic question rendering
@@ -94,16 +97,19 @@ My current focus is **Java backend development**, SQL, and full-stack fundamenta
 ---
 
 ### 🎶 Symphony — Interactive Music Web App
-**HTML • CSS • JavaScript**
+**HTML • CSS • JavaScript**  
+🌐 Live: https://symphony-mu.netlify.app  
+🔗 GitHub: https://github.com/Nishantsg3/Symphony  
 
 - Interactive music web application focused on user interaction
 - Modular UI behavior and dynamic feedback
-- Deployed on Netlify with production-ready setup
+- Deployed on Netlify with a production-ready setup
 
 ---
 
 ## 📜 Certifications
 
+- Java Programming for Beginners – IBM (Coursera)
 - Introduction to Software Engineering – IBM (Coursera)
 - SQL & Relational Databases 101 – IBM (Cognitive Class)
 - Python for Data Science & AI – IBM (Coursera)
