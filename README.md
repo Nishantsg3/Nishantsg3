@@ -17,57 +17,47 @@
 
 ## 👨‍💻 About Me
 
-I’m an entry-level software developer focused on **building real, working applications**, not just tutorial demos.
+I’m an entry-level software developer focused on building **real, working applications** rather than tutorial-only projects.
 
-I enjoy working close to the fundamentals — clean logic, structured code, databases that actually make sense, and projects that can be explained confidently in interviews.
+I enjoy working close to the fundamentals — clean logic, structured code, meaningful database design, and projects that I can confidently explain in interviews.
 
-Currently focused on **Java backend development**, SQL, and full-stack basics.
+My current focus is on **Java backend development**, SQL, and full-stack fundamentals.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-`Java` `C` `C#` `JavaScript`
-
-### Frontend
-`HTML5` `CSS3` `Bootstrap` `JavaScript`
-
-### Backend
-`Core Java` `JDBC` `PHP (basic)`
-
-### Database
-`MySQL` `PostgreSQL` `SQL`
-
-### Tools & Environment
-`Git` `GitHub` `Netlify` `Ubuntu Linux` `VS Code` `Eclipse`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cs,js,html,css,bootstrap,php,mysql,postgres,git,github,linux,vscode,eclipse" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏦 FinCore — Java Banking System
+### 🏦 FinCore — Java Banking System  
 **Java • JDBC • MySQL**  
 🔗 https://github.com/Nishantsg3/java-banking-system
 
 - Console-based banking application built using Core Java
-- Features: account creation, deposit, withdrawal, balance inquiry, update, and account closure
-- Designed relational database schema and implemented SQL CRUD operations
+- Features include account creation, deposit, withdrawal, balance inquiry, update, and account closure
+- Designed relational database schema and implemented SQL CRUD operations using JDBC
 - Focused on structured logic, error handling, and clean program flow
 
 ---
 
-### 🧾 Student Record Management System
+### 🧾 Student Record Management System  
 **C • File Handling**  
 🔗 https://github.com/Nishantsg3/student-record-management-c
 
-- Menu-driven C application with persistent storage
-- Binary file handling using `fread`, `fwrite`, and `fseek`
-- Full CRUD functionality with clear separation of logic
+- Menu-driven C application for managing student records
+- Persistent storage using binary files
+- Implemented add, display, search, update, and delete operations
+- Strengthened understanding of file I/O and structured programming
 
 ---
 
-### 🧠 Quiz Hub — Interactive Quiz Application
+### 🧠 Quiz Hub — Interactive Quiz Application  
 **HTML • CSS • JavaScript**  
 🔗 Live: https://quiz-hub-web.netlify.app  
 🔗 Repo: https://github.com/Nishantsg3/Quiz-Hub
@@ -78,14 +68,14 @@ Currently focused on **Java backend development**, SQL, and full-stack basics.
 
 ---
 
-### 🎶 Symphony — Interactive Music Web App
+### 🎶 Symphony — Interactive Music Web App  
 **HTML • CSS • JavaScript**  
 🔗 Live: https://symphony-mu.netlify.app  
 🔗 Repo: https://github.com/Nishantsg3/Symphony
 
-- Interactive music web application focused on user input
-- Modular UI behavior and dynamic interactions
-- Deployed on Netlify with production-ready setup
+- Interactive music web application focused on user interaction
+- Modular UI behavior and dynamic feedback
+- Deployed on Netlify with a production-ready setup
 
 ---
 
@@ -101,11 +91,11 @@ Currently focused on **Java backend development**, SQL, and full-stack basics.
 ## 🎯 What I’m Looking For
 
 - Entry-level **Software Developer / Java Developer** roles
-- Opportunities to learn through real engineering work
-- Teams that value fundamentals and clean code
+- Opportunities to grow through real engineering work
+- Teams that value fundamentals, clarity, and clean code
 
 ---
 
 <p align="center">
-<i>“I’m early in my career, but serious about building things that work.”</i>
+<i>“Early in my career, serious about building things that work.”</i>
 </p>
