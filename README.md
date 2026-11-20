@@ -1,7 +1,5 @@
 <div align="center">
-  <h1>Nishant Gawande</h1>
-  <p><b>Software Developer | Java • Spring Boot • React</b></p>
-  <p>Pune, India • B.E. Electronics & Telecommunication Engineering (2025)</p>
+  <img src="assets/profile-banner.svg" alt="Nishant Gawande — Full-Stack Developer" width="100%" />
 
   <p>
     <a href="https://linkedin.com/in/nishant-g3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,49 +11,43 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About & Engineering Focus
 
-I am a software developer focused on building robust web applications, RESTful APIs, and scalable backend services. I prioritize strong engineering fundamentals: clean architectural boundaries, transactional data integrity, comprehensive automated testing, and maintainable code.
+I am a software developer based in Pune, India (B.E. Electronics & Telecommunication Engineering, 2025). I build production-grade web applications, RESTful services, and database-backed systems with strong architectural boundaries, transactional integrity, and automated testing discipline.
 
-My primary stack centers on **Java and Spring Boot 3** for backend engineering, paired with modern **React** interfaces and relational databases (**PostgreSQL / MySQL**).
-
----
-
-## 🛠️ Technical Competencies
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| **Backend & APIs** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![REST APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square&logo=fastapi&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-333333?style=flat-square&logo=java&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Neon](https://img.shields.io/badge/Neon_Serverless_Postgres-00E599?style=flat-square&logo=postgresql&logoColor=black) |
-| **Tools & Testing** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-6DB33F?style=flat-square&logo=java&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Render](https://img.shields.io/badge/Render-00E599?style=flat-square&logo=render&logoColor=black) |
+### **Engineering Focus**
+* **Java & Spring Boot** backend services, microservice patterns, and relational data layers.
+* **React** frontend interfaces built with modern toolchains (Vite, Tailwind CSS).
+* **REST API** contract design, documentation, and client-server integration.
+* **Authentication, Authorization & Persistence**: Stateless JWT, OTP verification, RBAC, PostgreSQL, and MySQL.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project — LearnIQ
 
-### 🌟 [LearnIQ — Online Assessment & Learning Platform](https://github.com/Nishantsg3/LearnIQ)
+### 🌟 [LearnIQ — Modern Assessment & Examination Platform](https://github.com/Nishantsg3/LearnIQ)
 **Full-Stack Examination System | Java 17 • Spring Boot 3 • React 18 • PostgreSQL • Render**  
 🔗 [Live Platform](https://learniq-frontend-7oyn.onrender.com) • [REST API Documentation](https://learniq-backend-vglf.onrender.com/api/v1) • [GitHub Repository](https://github.com/Nishantsg3/LearnIQ)
 
-* **Architecture**: Production-grade full-stack architecture featuring a Spring Boot 3.5 REST backend, modern React 18 / Vite frontend with Tailwind CSS, and cloud PostgreSQL persistence.
-* **Security & Auth**: Stateless JWT authentication with secure password hashing, OTP-based password resets, and granular role-based access control (`ROLE_STUDENT`, `ROLE_FACULTY`, `ROLE_ADMIN`).
-* **Synchronized Exam Engine**: Real-time server-synced countdown timer, instant answer autosave, question palette navigation, and distraction-free keyboard shortcuts (`A-D`, `← →`, `M`).
-* **Diagnostic Review**: Post-submission solution audits with detailed question rationales, answer key comparisons, and mistake filtering.
-* **Test-Driven Reliability**: Comprehensive test suite of **200+ automated unit & integration tests** covering authorization guards, transaction boundaries, and business rules.
+**Currently Building & Maintaining:**
+* **Frontend Architecture**: Modern React 18 single-page application built with Vite and Tailwind CSS. Features dark/light themes, keyboard navigation shortcuts (`A-D`, `← →`, `M`), and mobile responsiveness.
+* **Backend Architecture**: Spring Boot 3.5 RESTful backend integrated with cloud-managed Neon PostgreSQL.
+* **Security & Authentication**: Stateless JWT token authentication, secure OTP verification for password reset flows, and granular role-based access control (`ROLE_STUDENT`, `ROLE_ADMIN`, `ROLE_FACULTY`).
+* **Assessment & Practice Workflows**: Synchronized test-taking engine with server-synced countdown timer, question palette navigation, real-time response autosave, and instant scorecard generation.
+* **Diagnostic Review**: Post-submission solution audits providing question-by-question rationales, concept keys, and mistake filtering.
+* **Automated Verification**: **200+ unit & integration tests** (`./mvnw test`) validating security policies, transaction boundaries, and evaluation logic.
 
 ---
+
+## 📦 Other Selected Projects
 
 ### 🏦 [FinCore — Java Banking System](https://github.com/Nishantsg3/java-banking-system)
 **Core Java • JDBC • MySQL**  
 🔗 [GitHub Repository](https://github.com/Nishantsg3/java-banking-system)
 
-* Console-based banking application applying relational database modeling and transactional ACID semantics.
+* Console-based banking application implementing relational schema modeling and transactional ACID semantics.
 * Implemented account creation, secure deposits, withdrawals, and balance inquiry using raw JDBC SQL queries.
-* Structured with clean separation of data access layers, input validation, and defensive exception handling.
-
----
+* Structured with clean data access layers (DAO pattern), input validation, and defensive exception handling.
 
 ### 🧠 [Quiz Hub — Interactive Timed Quiz Application](https://github.com/Nishantsg3/Quiz-Hub)
 **JavaScript • HTML5 • CSS3**  
@@ -63,16 +55,26 @@ My primary stack centers on **Java and Spring Boot 3** for backend engineering, 
 
 * Responsive browser-based quiz application with real-time scoring and dynamic question rendering.
 * Features countdown timers, score calculation logic, and responsive DOM interaction built with event-driven JavaScript.
-* Deployed on Netlify with automated static delivery.
-
----
+* Deployed on Netlify with automated continuous deployment from source.
 
 ### 🛒 [Grocery Shopping System](https://github.com/Nishantsg3/grocery-shopping-system-java)
-**Java • OOP • Persistent File I/O**  
+**Java • Object-Oriented Design • File I/O**  
 🔗 [GitHub Repository](https://github.com/Nishantsg3/grocery-shopping-system-java)
 
 * Console store management application demonstrating object-oriented principles (inheritance, encapsulation, polymorphism).
-* Features item selection, dynamic bill computation, inventory tracking, receipt generation, and persistent file-based storage.
+* Features item catalog selection, dynamic bill computation, inventory tracking, receipt generation, and persistent file-based storage.
+
+---
+
+## 🛠️ Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| **Backend & APIs** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![REST APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square&logo=fastapi&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-333333?style=flat-square&logo=java&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Neon](https://img.shields.io/badge/Neon_Serverless_Postgres-00E599?style=flat-square&logo=postgresql&logoColor=black) |
+| **Tools & Testing** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-6DB33F?style=flat-square&logo=java&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Render](https://img.shields.io/badge/Render-00E599?style=flat-square&logo=render&logoColor=black) |
 
 ---
 
@@ -84,40 +86,33 @@ My primary stack centers on **Java and Spring Boot 3** for backend engineering, 
   <img alt="Nishant's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Nishantsg3/Nishantsg3/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-<br/>
+---
+
+## 📬 Contact & Portfolio
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishantsg3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Nishant's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantsg3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
----
-
-## 📜 Certifications & Education
-
-* **B.E. in Electronics & Telecommunication Engineering** (2025) — Pune, India
-* **Java Programming for Beginners** — IBM (Coursera)
-* **Introduction to Software Engineering** — IBM (Coursera)
-* **SQL & Relational Databases 101** — Cognitive Class / IBM
-* **Python for Data Science & AI** — IBM (Coursera)
-* **TCS iON Career Edge** — Young Professional
-
----
-
-## 🎯 Current Engineering Focus
-
-* **Distributed Systems**: Microservices architecture, API gateways, and asynchronous messaging (Kafka / RabbitMQ).
-* **Database Optimization**: Advanced indexing, execution plan analysis, and query optimization in PostgreSQL.
-* **DevOps Pipelines**: CI/CD automation with GitHub Actions and multi-stage Docker containerization.
-
----
-
-<div align="center">
-  <p><b>Seeking Entry-Level Software Developer / Java Full-Stack Developer Roles</b></p>
+  <p><b>Open to Entry-Level Software Developer / Java Full-Stack Developer Roles</b></p>
   <p>
     <a href="https://linkedin.com/in/nishant-g3">LinkedIn</a> •
     <a href="https://portfolionsg-web.netlify.app">Portfolio</a> •
-    <a href="mailto:ngawande256@gmail.com">ngawande256@gmail.com</a>
+    <a href="mailto:ngawande256@gmail.com">ngawande256@gmail.com</a> •
+    <a href="https://github.com/Nishantsg3">GitHub</a>
   </p>
-  <p><i>Building reliable, maintainable software systems with clean engineering principles.</i></p>
+
+  <br/>
+
+  <details>
+    <summary><kbd><code>⌘ // [ easter-egg.sh ]</code></kbd></summary>
+    <div>
+      <br/>
+      <p><i>「 常識を疑い、限界を超えて構築せよ 」</i></p>
+      <p><i>"Question convention. Build beyond limits."</i></p>
+      <pre>
+       ▲
+      ▲ ▲    // Engineering Principles:
+     ▲ ▲ ▲   // Architecture • Resilience • Clarity
+      </pre>
+      <p><small><code>system_status: all 200+ test suites green • runtime nominal</code></small></p>
+    </div>
+  </details>
 </div>

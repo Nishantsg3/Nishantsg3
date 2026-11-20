@@ -1,0 +1,74 @@
+<svg width="900" height="170" viewBox="0 0 900 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0d14"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0a0d14"/>
+    </linearGradient>
+
+    <!-- Accent Glow Gradient -->
+    <linearGradient id="accent-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#8b5cf6" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0.6"/>
+    </linearGradient>
+
+    <!-- Subtle Radial Glow -->
+    <radialGradient id="radial-ambient" cx="80%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'SF Pro Display', sans-serif; font-size: 30px; font-weight: 700; fill: #f8fafc; letter-spacing: 4px; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'SF Pro Text', monospace; font-size: 13px; font-weight: 500; fill: #a5b4fc; letter-spacing: 2.5px; }
+    .telemetry { font-family: 'SF Mono', Consolas, Menlo, Monaco, monospace; font-size: 10px; fill: #64748b; letter-spacing: 1.5px; }
+    .hud-line { stroke: #334155; stroke-width: 1; stroke-dasharray: 4 4; }
+    .hud-solid { stroke: #1e293b; stroke-width: 1; }
+  </style>
+
+  <!-- Background Canvas -->
+  <rect width="900" height="170" rx="10" fill="url(#bg)"/>
+  <rect width="900" height="170" rx="10" fill="url(#radial-ambient)"/>
+  <rect width="900" height="170" rx="10" stroke="#1e293b" stroke-width="1.2"/>
+
+  <!-- Top Accent Horizon Bar -->
+  <rect x="0" y="0" width="900" height="2.5" fill="url(#accent-glow)"/>
+
+  <!-- Anime-Tech Grid Lines & Reticle Motif -->
+  <line x1="45" y1="20" x2="45" y2="150" class="hud-line"/>
+  <line x1="855" y1="20" x2="855" y2="150" class="hud-line"/>
+  <line x1="45" y1="130" x2="855" y2="130" class="hud-solid"/>
+
+  <!-- Geometric Reticle / Star Compass Motif (Abstract Anime/Sci-Fi Navigation) -->
+  <g transform="translate(800, 75)">
+    <circle cx="0" cy="0" r="32" stroke="#334155" stroke-width="1" fill="none"/>
+    <circle cx="0" cy="0" r="22" stroke="#4f46e5" stroke-width="1" stroke-dasharray="3 3" fill="none"/>
+    <circle cx="0" cy="0" r="4" fill="#8b5cf6"/>
+    <line x1="-38" y1="0" x2="38" y2="0" stroke="#475569" stroke-width="0.8"/>
+    <line x1="0" y1="-38" x2="0" y2="38" stroke="#475569" stroke-width="0.8"/>
+    <polygon points="0,-16 4,0 0,16 -4,0" fill="#6366f1" opacity="0.4"/>
+    <polygon points="-16,0 0,4 16,0 0,-4" fill="#6366f1" opacity="0.4"/>
+  </g>
+
+  <!-- Corner Brackets (Cyberpunk/Anime Console Framing) -->
+  <path d="M 16 28 L 16 16 L 28 16" stroke="#6366f1" stroke-width="2" fill="none"/>
+  <path d="M 884 28 L 884 16 L 872 16" stroke="#6366f1" stroke-width="2" fill="none"/>
+  <path d="M 16 142 L 16 154 L 28 154" stroke="#6366f1" stroke-width="2" fill="none"/>
+  <path d="M 884 142 L 884 154 L 872 154" stroke="#6366f1" stroke-width="2" fill="none"/>
+
+  <!-- Telemetry Metadata Header -->
+  <text x="65" y="42" class="telemetry">[ SYS.LOC // 18.5204° N, 73.8567° E — PUNE, INDIA ]</text>
+  <circle cx="735" cy="39" r="3.5" fill="#10b981"/>
+  <text x="745" y="42" class="telemetry">RUNTIME: STABLE</text>
+
+  <!-- Identity Typography -->
+  <text x="65" y="86" class="title">NISHANT GAWANDE</text>
+  <text x="65" y="112" class="subtitle">FULL-STACK DEVELOPER // JAVA • SPRING BOOT • REACT</text>
+
+  <!-- Lower Telemetry Footer -->
+  <text x="65" y="148" class="telemetry">CORE ARCHITECTURE: DISTRIBUTED SERVICES • REST APIS • AUTOMATED VERIFICATION</text>
+  <text x="765" y="148" class="telemetry">VER 2026.11</text>
+</svg>
